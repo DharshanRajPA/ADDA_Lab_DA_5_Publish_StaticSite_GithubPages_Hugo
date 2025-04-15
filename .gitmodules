@@ -1,3 +1,3 @@
-[submodule "my-hugo-site/themes/Ananke"]
-	path = my-hugo-site/themes/Ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "my-hugo-site"]
+    path = my-hugo-site
+    url = https://github.com/DharshanRajPA/ADDA_Lab_DA_5_Publish_StaticSite_GithubPages_Hugo
